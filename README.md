@@ -8,7 +8,7 @@ My first project. A basic Linux terminal TicTacToe game written in C++.
 
 ### Build
 ```bash
-clang++ main.cpp -o tictactoe
+clang++ -O3 -flto -s -DNDEBUG main.cpp -o tictactoe
 ```
 
 ### License
