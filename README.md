@@ -1,5 +1,5 @@
 # TicTacToe
-First project. A basic TicTacToe game in terminal, written in C++.
+My first project. A basic Linux terminal TicTacToe game written in C++.
 
 ### Features
 - Player vs Player
